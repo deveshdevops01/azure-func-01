@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "connectionstring" : "Driver={ODBC Driver 18 for SQL Server};Server=tcp:az-function-poc.database.windows.net,1433;Database=demo;Uid=azureuser;Pwd=Evolent@1234"
+  }
+}
