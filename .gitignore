@@ -126,7 +126,7 @@ dmypy.json
 bin
 obj
 appsettings.json
-# local.settings.json
+# local.settings.json # to take the refrence for the connection string
 
 # Azurite artifacts
 __blobstorage__
