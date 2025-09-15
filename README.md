@@ -1,1 +1,0 @@
-# azure-func-01
